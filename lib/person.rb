@@ -3,7 +3,7 @@ end
 
 class Person 
   def talk 
-    puts "Hell World!"
+    puts "o World!"
   end 
 end 
 
